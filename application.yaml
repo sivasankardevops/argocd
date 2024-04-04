@@ -6,7 +6,7 @@ metadata:
 spec: 
   destination: 
     namespace: guestbook
-    server: "https://kubernetes.default.svc"
+    server: "https://9551C1CEE4E6167C358EEF94B6E7BDB5.gr7.eu-west-1.eks.amazonaws.com"
   project: default
   source: 
     path: guestbook
